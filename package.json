@@ -1,5 +1,5 @@
 {
-  "name": "advanced-react-project-02",
+  "name": "project-name",
   "private": true,
   "scripts": {
     "dev": "next dev",
